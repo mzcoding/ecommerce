@@ -1,0 +1,11 @@
+27-092014 (21:55:22)::Error:
+27-092014(21:55):Unable to find template "header" (looked into: E:\WebServer\ecommerce.loc\www/templates/default) in "hello.tpl" at line 1.:029-092014 (16:34:35)::Error:
+29-092014(16:34):Unknown tag name "isLogin" in "sidebar.tpl" at line 10:029-092014 (16:36:00)::Error:
+29-092014(16:36):Unknown tag name "isLogin" in "sidebar.tpl" at line 10:029-092014 (16:41:26)::Error:
+29-092014(16:41):Unknown tag name "isLogin" in "sidebar.tpl" at line 10:029-092014 (16:42:24)::Error:
+29-092014(16:42):Unknown tag name "isLogin" in "sidebar.tpl" at line 10:029-092014 (16:44:13)::Error:
+29-092014(16:44):Unknown tag name "isLogin" in "sidebar.tpl" at line 10:006-102014 (15:35:37)::Error:
+06-102014(15:35):Unknown tag name "uri" in "admin/sidebar.tpl" at line 13:006-102014 (15:45:02)::Error:
+06-102014(15:45):Unexpected character "'" in "admin/sidebar.tpl" at line 14:012-102014 (14:18:52)::Error:
+12-102014(14:18):Unable to find template "admin/newArticle.tpl" (looked into: E:\WebServer\ecommerce.loc\www/templates/default).:013-102014 (19:50:52)::Error:
+13-102014(19:50):Unable to find template "admin/editArticle.tpl" (looked into: E:\WebServer\ecommerce.loc\www/templates/default).:0
