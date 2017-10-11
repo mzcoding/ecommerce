@@ -16,7 +16,7 @@
     
      </center>
      <div>
-     <h2>Востановить пароль</h2>
+     <h2>Восстановить пароль</h2>
      <br>
      <form class="pure-form" method="post">
       <p>E-mail:<br>
@@ -24,7 +24,7 @@
        </p>
  
       
-       <button type="submit" class="pure-button">Востановить пароль</button>
+       <button type="submit" class="pure-button">Восстановить пароль</button>
      </form>
      
   {% include 'footer.tpl' %}   
